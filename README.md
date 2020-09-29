@@ -8,4 +8,4 @@ Pour répondre à cette question nous devons réaliser un programme.
 
 La notation se fera sur les différents carnets de bord du projet ainsi que sur le programme et la présentation finale. 
 
-Pour plus d'informations, voir le fichier 
+Pour plus d'informations, voir le fichier "SujetModMath_2020.pdf"
